@@ -57,8 +57,6 @@ Cak Learning mengelompokkan materi ke dalam empat pilar utama:
 
 ## 📸 Tangkapan Layar (Screenshots)
 
-> *Tip: Ganti tautan gambar di bawah ini dengan tangkapan layar aplikasi Anda di folder `assets/` atau `screenshots/`.*
-
 <img width="1600" height="900" alt="Screenshot (27)" src="https://github.com/user-attachments/assets/58f27f5a-94e3-4c1b-b39f-5021804f6bc0" />
 <img width="1600" height="900" alt="Screenshot (29)" src="https://github.com/user-attachments/assets/cf2db99c-1b04-4968-bc03-36913458348c" />
 <img width="1600" height="900" alt="Screenshot (28)" src="https://github.com/user-attachments/assets/3043cb6c-7300-4ef1-88d4-8becff4383fe" />

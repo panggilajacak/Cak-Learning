@@ -11,7 +11,8 @@ Jelajahi bahasa asing, bahasa daerah Nusantara, wawasan multidisiplin, hingga se
 
 [Fitur Utama](#-fitur-utama) • [Katalog Kurikulum](#-katalog-kurikulum) • [Instalasi & Penggunaan](#-instalasi--penggunaan) • [Kontribusi](#-kontribusi)
 
-</div>
+</div><img width="1600" height="900" alt="Screenshot (27)" src="https://github.com/user-attachments/assets/9ece6abe-6516-470d-bf2a-c3e9da2ce522" />
+
 
 ---
 
@@ -58,13 +59,13 @@ Cak Learning mengelompokkan materi ke dalam empat pilar utama:
 
 > *Tip: Ganti tautan gambar di bawah ini dengan tangkapan layar aplikasi Anda di folder `assets/` atau `screenshots/`.*
 
-| Halaman Utama & Feed Materi | Peta Interaktif Bahasa |
-| :---: | :---: |
-| ![Home Feed](https://via.placeholder.com/450x250?text=Tampilan+Home+Feed+Cak+Learning) | ![Interactive Map](https://via.placeholder.com/450x250?text=Peta+Interaktif+Bahasa) |
+<img width="1600" height="900" alt="Screenshot (27)" src="https://github.com/user-attachments/assets/58f27f5a-94e3-4c1b-b39f-5021804f6bc0" />
+<img width="1600" height="900" alt="Screenshot (29)" src="https://github.com/user-attachments/assets/cf2db99c-1b04-4968-bc03-36913458348c" />
+<img width="1600" height="900" alt="Screenshot (28)" src="https://github.com/user-attachments/assets/3043cb6c-7300-4ef1-88d4-8becff4383fe" />
+<img width="1591" height="805" alt="Screenshot (30)" src="https://github.com/user-attachments/assets/0965d017-4301-4d87-bd7b-927c3cf8aa28" />
+<img width="375" height="829" alt="Screenshot (32)" src="https://github.com/user-attachments/assets/df9fa041-1edc-4f1a-854e-42fadf46903a" />
 
-| Editor Materi & Simulasi | Pemutar Podcast & Audio |
-| :---: | :---: |
-| ![Course Editor](https://via.placeholder.com/450x250?text=Editor+Sub-Materi+%26+JSON) | ![Podcast Player](https://via.placeholder.com/450x250?text=Katalog+Podcast+%26+Audio) |
+
 
 ---
 
@@ -92,16 +93,8 @@ npm install
     npm run dev
     
 (Catatan: Jika aplikasi berbasis HTML/CSS/JS murni tanpa bundler, cukup buka file index.html langsung di browser atau gunakan ekstensi Live Server).
+<img width="373" height="817" alt="Screenshot (31)" src="https://github.com/user-attachments/assets/df870258-5088-4a43-9f29-4a4183220e1c" />
 
-## 📂 Struktur Proyek
-Plaintext
-cak-learning/
-├── index.html          # Halaman utama aplikasi
-├── assets/             # Aset gambar, ikon, peta SVG, dan audio
-├── css/                # File styling dan tata letak responsif
-├── js/                 # Logika aplikasi, state management, & parser JSON
-├── data/               # Template materi default & konfigurasi bahasa
-└── README.md           # Dokumentasi proyek
 
 ## 🤝 Kontribusi
 Kontribusi selalu terbuka! Jika Anda ingin menambahkan fitur baru, memperbaiki bug, atau menyumbangkan paket materi belajar (.json):

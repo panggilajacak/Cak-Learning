@@ -93,7 +93,6 @@ npm install
     npm run dev
     
 (Catatan: Jika aplikasi berbasis HTML/CSS/JS murni tanpa bundler, cukup buka file index.html langsung di browser atau gunakan ekstensi Live Server).
-<img width="373" height="817" alt="Screenshot (31)" src="https://github.com/user-attachments/assets/df870258-5088-4a43-9f29-4a4183220e1c" />
 
 
 ## 🤝 Kontribusi
